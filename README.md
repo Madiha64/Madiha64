@@ -1,6 +1,4 @@
-
 # Hi there, I'm Madiha Iqbal! 
-
 <!-- Dynamic CSS Typing Display -->
 <div align="left">
   <h1>
@@ -11,7 +9,6 @@
   </h1>
 </div>
 ---
-
 ## 🤖 Research & Engineering Focus
 I am an AI Engineer specializing in **Computer Vision**, **Generative AI (Synthetic Data Generation)**, and **Agentic AI systems**. My focus spans the entire machine learning lifecycle—from fundamental research and model alignment to cloud-native production deployment.
 
