@@ -1,16 +1,23 @@
-
 <div align="center">
 
 # Madiha Iqbal
 
 ### AI Engineer & Researcher
 
-**Computer Vision | LLMs & Agentic AI**
+<a href="https://github.com/Madiha64">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Vision;LLMs+%26+Agentic+AI;Generative+AI+%26+Synthetic+Data;Building+Reliable+AI+Systems" alt="Typing animation: Computer Vision, LLMs and Agentic AI, Generative AI and Synthetic Data" />
+</a>
 
-Building and evaluating AI systems through computer vision, generative modeling, LLM alignment, and evidence-grounded applications.
+<p>
+  Building and evaluating AI systems through computer vision, generative modeling, and evidence-grounded LLM applications.
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madiha64)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-iqbal-3432a8277/)
+<a href="https://github.com/Madiha64?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Projects-181717?style=for-the-badge&logo=github" alt="Explore projects" />
+</a>
+<a href="https://www.linkedin.com/in/madiha-iqbal-3432a8277/">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
 
 </div>
 
