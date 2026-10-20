@@ -5,7 +5,7 @@
 ### AI Engineer & Researcher
 
 <a href="https://github.com/Madiha64">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Vision;LLMs+%26+Agentic+AI;Generative+AI+%26+Synthetic+Data;Building+Reliable+AI+Systems" alt="Typing animation: Computer Vision, LLMs and Agentic AI, Generative AI and Synthetic Data" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Vision;LLMs+%26+Agentic+AI;Generative+AI+%26+Synthetic+Data;Building+Reliable+AI+Systems" alt="Typing animation: Computer Vision, LLMs and Agentic AI, Generative AI and Synthetic Data Generation" />
 </a>
 
 <p>
