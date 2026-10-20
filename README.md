@@ -1,4 +1,5 @@
-# Hi there, I'm Madiha Iqbal! 
+# Hi there, I'm Madiha Iqbal! 👋
+
 <!-- Dynamic CSS Typing Display -->
 <div align="left">
   <h1>
