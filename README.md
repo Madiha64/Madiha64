@@ -58,7 +58,7 @@ Research on deep learning pipelines for detecting and segmenting structural defe
 
 ---
 
-### [Generative AI for Biomedical Imaging](https://github.com/Knee-Xray-Generative-AI)
+### [Generative AI for Biomedical Imaging](https://github.com/Madiha64/Knee-Xray-Generative-AI)
 
 Exploring synthetic knee X-ray generation to address medical-data scarcity and privacy challenges.
 
@@ -71,7 +71,7 @@ Exploring synthetic knee X-ray generation to address medical-data scarcity and p
 
 ---
 
-###  [Trustworthy Medical RAG Assistant](https://github.com/ContextAware-Medical-RAG)
+###  [Trustworthy Medical RAG Assistant](https://github.com/Madiha64/ContextAware-Medical-RAG)
 
 An evidence-grounded medical question-answering system designed to provide answers based on retrieved medical documents.
 
@@ -84,7 +84,7 @@ An evidence-grounded medical question-answering system designed to provide answe
 
 ---
 
-###  [LLM Fine-Tuning: SFT + DPO](https://github.com/Preference-Aligned-Medical-LLM)
+###  [LLM Fine-Tuning: SFT + DPO](https://github.com/Madiha64/Preference-Aligned-Medical-LLM)
 
 Experimenting with preference alignment to improve small language models for medical question answering.
 
@@ -96,7 +96,7 @@ Experimenting with preference alignment to improve small language models for med
 
 ---
 
-###  [Multi-Agent Inventory Monitoring System](https://github.com/multi-agent-inventory-system)
+###  [Multi-Agent Inventory Monitoring System](https://github.com/Madiha64/multi-agent-inventory-system)
 
 An AI-based inventory monitoring and decision-support system for stock-risk classification and reorder recommendations.
 
@@ -108,7 +108,7 @@ An AI-based inventory monitoring and decision-support system for stock-risk clas
 
 ---
 
-###  [Voice RAG AI Assistant](https://github.com/voice-rag-ai-assistant)
+###  [Voice RAG AI Assistant](https://github.com/Madiha64/voice-rag-ai-assistant)
 
 A local AI assistant combining conversational LLMs, document retrieval, and voice interaction.
 
