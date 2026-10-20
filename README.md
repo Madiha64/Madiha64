@@ -60,6 +60,7 @@ Research on deep learning pipelines for detecting and segmenting structural defe
 - Developed a four-class U-Net segmentation pipeline with custom dataset loading and checkpoint management.
 - Applied YOLOv8 for crack, spalling, and exposed-rebar detection.
 - Evaluated model performance using class-wise IoU, F1-score, precision, and recall.
+**Demo:** The manuscript is currently in preparation. Therefore, the source code and full implementation are not publicly available on GitHub. The repository will be made public after publication.
 
 **Tech Stack:** PyTorch,SegFormer, DeepLabV3, U-Net, DDRNet, YOLOv8, yolov26,OpenCV.
 
